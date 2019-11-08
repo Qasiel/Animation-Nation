@@ -1459,7 +1459,7 @@ let cards = [
 		imageLink: "./Art/Alara Joel/stealth ghost.png",
 		author: "Alara Joel",
 		githubLink: "https://github.com/stealthman22"
-	}
+	},
 	{
       artName: "Warm Circles",
       pageLink: "./Art/Qasiel/index.html",
