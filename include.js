@@ -1453,13 +1453,20 @@ let cards = [
 	      author: "Rahulkumar Jha",
 	      githubLink: "https://github.com/Rahul240499"
      },
-  {
-	artName: "Ghost Stealth Text",
-	pageLink: "./Art/Alara Joel/index.html",
-	imageLink: "./Art/Alara Joel/stealth ghost.png",
-	author: "Alara Joel",
-	githubLink: "https://github.com/stealthman22"
-}
+	{
+		artName: "Ghost Stealth Text",
+		pageLink: "./Art/Alara Joel/index.html",
+		imageLink: "./Art/Alara Joel/stealth ghost.png",
+		author: "Alara Joel",
+		githubLink: "https://github.com/stealthman22"
+	}
+	{
+      artName: "Warm Circles",
+      pageLink: "./Art/Qasiel/index.html",
+      imageLink: "./Art/Qasiel/screenshot.png",
+      author: "Joe",
+      githubLink: "https://github.com/Qasiel"
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
